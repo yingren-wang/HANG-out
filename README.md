@@ -4,7 +4,6 @@ INTRODUCTION
 ------------
 This repo is designed for dead life lover to make plans and HANG.
 
-
 CONTRIBUTION
 ------------
 To contribute ideas to the repo, you must create a pull request and get the PR approved by all members 
