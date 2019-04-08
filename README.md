@@ -19,5 +19,4 @@ Current maintainers:
 FAMOUS WORDS
 -----------
 May the life peaceful. - YW
-
 EATING UR FACE. - PM
