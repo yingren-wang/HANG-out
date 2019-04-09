@@ -15,6 +15,7 @@ Current maintainers:
  * Yingren Wang (20 Sassy)- Chief Owner of the repository
  * Pranay Marella (pranmar123)- Contributor 
  * Blake Pennington- Chief Parser of the repository 
+ * Jake Cloud - Neutral
 
 FAMOUS WORDS
 -----------
