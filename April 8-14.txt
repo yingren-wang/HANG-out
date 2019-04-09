@@ -13,6 +13,8 @@
  Wednesday: 
   #1 Botanical Garden
   #2 Board Game Night with OPS[1]
+  #3 Live Concert: Miki P (KC) + Alex Hendrix ($6 8-11PM)
+     link: http://www.lowemill.net/event/miki-p-kc-alex-hendrix/?instance_id=159854
   
 Thursday: 
   Museum of Art ($5 till 8PM)
