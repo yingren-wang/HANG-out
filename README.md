@@ -13,7 +13,7 @@ MAINTAINERS
 -----------
 Current maintainers:
  * Yingren Wang (20 Sassy)- Chief Owner of the repository
- * Pranay Marella (pranmar123)- Contributor 
+ * Pranay Marella (pranmar123)- Time magazine's cutest qtpie 
  * Blake Pennington- Chief Parser of the repository 
  * Jake Cloud - Neutral
 
@@ -22,3 +22,5 @@ FAMOUS WORDS
 May the life peaceful. - YW
 
 EATING UR FACE. - PM
+
+Uhhhh, idk man  ¯\_(ツ)_/¯  - JC
